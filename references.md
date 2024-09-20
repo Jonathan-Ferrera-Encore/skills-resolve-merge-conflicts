@@ -1,3 +1,5 @@
-# References
+This is some conflicting text. What should be done about this?
 
-* octocat 1 😈
+Nothing?
+
+Okay.
